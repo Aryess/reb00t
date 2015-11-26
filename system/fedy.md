@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Oh My Zsh
+# Fedy
 
 [Fedy][fedy] is a community extension to Fedora that "lets you install multimedia codecs and additional software that Fedora doesn't want to ship, like mp3 support, Adobe Flash, Oracle Java etc., and much more with just a few clicks."
 
