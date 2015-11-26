@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the install manual for my laptop. The tools I use, with their settings.
   Maybe not the best around, but these are mines. Ping me on twitter for suggestions.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/reb00t" # the subpath of your site, e.g. /blog/
 url: "http://reboot.github.io" # the base hostname & protocol for your site
 twitter_username: Ary3ss
 github_username:  aryess
