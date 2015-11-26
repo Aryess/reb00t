@@ -7,15 +7,16 @@ layout: default
 ## System
 * [oh-my-zsh](system/ohmyzsh.html)
 * [Fedy](system/fedy.html)
-* [Conf files]()
+* [Config files](system/misc.html)
 
 ## Personal
-* [spotify]()
+* [Spotify](perso/spotify.html)
 
 ## Dev
 
 * [LAMP]()
-* [phpstorm]()
-* [heroku toolbelt]()
+* [PhpStorm]()
+* [Sublime Text]()
+* [Heroku toolbelt]()
 * [node]()
 * [ELK Stack]()
