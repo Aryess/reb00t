@@ -7,11 +7,12 @@ layout: default
 ## Settings   
 * Set the hostname 
 {% highlight sh %}
-$ hostnamectl set-hostname --static "Suzaku"
+	$ hostnamectl set-hostname --static "Suzaku"
 {% endhighlight %}
+
 * Install [htop](http://hisham.hm/htop/)
 {% highlight sh %}
-$ sudo dnf install htop -y
+	$ sudo dnf install htop -y
 {% endhighlight %}
 
 ## Config files
